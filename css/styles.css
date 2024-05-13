@@ -1,3 +1,9 @@
+body {
+  font-family: "Teachers", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 #profile {
   max-width: 800px;
   margin: auto;
